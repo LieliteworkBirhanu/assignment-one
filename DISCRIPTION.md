@@ -1,6 +1,9 @@
 # assignment-one
+#Lielitework Birhanu DBUR/1241/10
+#Mesayt Erkie DBUR/1255/10
 ##Answers:
 Assignment I
+
 QUESTION 1 What changes are made when you add a second Activity to your app by choosing File > New > Activity and an Activity template? Choose one: A. The second Activity is added as a Java class. You still need to add the XML layout file. B. The second Activity XML layout file is created and a Java class added. You still need to define the class signature. C. The second Activity is added as a Java class, the XML layout file is created, and the AndroidManifest.xml file is changed to declare a second Activity. D. The second Activity XML layout file is created, and the AndroidManifest.xml file is changed to declare a second Activity.
 Answer C,The second Activity is added as a Java class, the XML layout file is created, and the AndroidManifest.xml file is changed to declare a second Activity.
 QUESTION 2 What happens if you remove the android:parentActivityName and the <meta-data> elements from the second Activity declaration in the AndroidManifest.xml file? Choose one: A. The second Activity no longer appears when you try to start it with an explicit Intent. B. The second Activity XML layout file is deleted. C. The Back button no longer works in the second Activity to send the user back to the main Activity.
